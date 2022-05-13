@@ -1,0 +1,22 @@
+B:\UNCA\PORTAFOLIO SEMESTRE VI\SISTEMAS OPERATIVOS I\algoritmosPlanificacion\algoritmosPlanificacion\bin\Debug\algoritmosPlanificacion.exe.config
+B:\UNCA\PORTAFOLIO SEMESTRE VI\SISTEMAS OPERATIVOS I\algoritmosPlanificacion\algoritmosPlanificacion\bin\Debug\algoritmosPlanificacion.exe
+B:\UNCA\PORTAFOLIO SEMESTRE VI\SISTEMAS OPERATIVOS I\algoritmosPlanificacion\algoritmosPlanificacion\bin\Debug\algoritmosPlanificacion.pdb
+B:\UNCA\PORTAFOLIO SEMESTRE VI\SISTEMAS OPERATIVOS I\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.csproj.AssemblyReference.cache
+B:\UNCA\PORTAFOLIO SEMESTRE VI\SISTEMAS OPERATIVOS I\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.csproj.SuggestedBindingRedirects.cache
+B:\UNCA\PORTAFOLIO SEMESTRE VI\SISTEMAS OPERATIVOS I\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.Form1.resources
+B:\UNCA\PORTAFOLIO SEMESTRE VI\SISTEMAS OPERATIVOS I\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.Properties.Resources.resources
+B:\UNCA\PORTAFOLIO SEMESTRE VI\SISTEMAS OPERATIVOS I\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.csproj.GenerateResource.cache
+B:\UNCA\PORTAFOLIO SEMESTRE VI\SISTEMAS OPERATIVOS I\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.csproj.CoreCompileInputs.cache
+B:\UNCA\PORTAFOLIO SEMESTRE VI\SISTEMAS OPERATIVOS I\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.exe
+B:\UNCA\PORTAFOLIO SEMESTRE VI\SISTEMAS OPERATIVOS I\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.pdb
+C:\Users\carlo\Desktop\algoritmosPlanificacion\algoritmosPlanificacion\bin\Debug\algoritmosPlanificacion.exe.config
+C:\Users\carlo\Desktop\algoritmosPlanificacion\algoritmosPlanificacion\bin\Debug\algoritmosPlanificacion.exe
+C:\Users\carlo\Desktop\algoritmosPlanificacion\algoritmosPlanificacion\bin\Debug\algoritmosPlanificacion.pdb
+C:\Users\carlo\Desktop\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.Form1.resources
+C:\Users\carlo\Desktop\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.Properties.Resources.resources
+C:\Users\carlo\Desktop\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.exe
+C:\Users\carlo\Desktop\algoritmosPlanificacion\algoritmosPlanificacion\obj\Debug\algoritmosPlanificacion.pdb
